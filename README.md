@@ -17,7 +17,7 @@ Clone following repository in your /c:/ folder. Create one database called nodep
 open nodepost.sql for project derectory annd open that file and select all and copy past in phpmyadmin to create database for that project test api.
 Go to project folder in command prompt using following commands. 
 go to 
-cd /NodeJsCRUD_KNEX/ 
+cd /NodePostCRUD/ 
 
 npm start
 
